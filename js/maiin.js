@@ -30,11 +30,5 @@
 			}
 		}
 
-	/*
-	this 
-	is 
-	a
-	block
-	comment
-	 */
+
 })();
