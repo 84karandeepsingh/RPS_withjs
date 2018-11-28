@@ -1,7 +1,7 @@
 body {
 	width: 1024px;
 	margin: 0 auto;
-	background-color: black;
+	background-color: green;
 	color: white;
 }
 
@@ -10,5 +10,4 @@ header { text-align: center; }
 header, .choice { margin-bottom: 60px; }
 
 .result { margin-top: 60px; }
-
 button { cursor: pointer; }
