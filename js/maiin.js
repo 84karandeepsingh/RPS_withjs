@@ -20,7 +20,7 @@
 			status.textContent = "Tie! You live to shoot another day.";
 		}
 
-		else if ( player_choice.toLowercase() ==="rock" ) {
+		else if ( player_choice.toLowercase() ==="rock" ) 
 			if (computer.toLowercase() === "scissors") {
 				// win
 				status.textContent = `Win! ${player_choice} beats ${computer}.`;
@@ -31,4 +31,4 @@
 		}
 
 
-}();
+})();
